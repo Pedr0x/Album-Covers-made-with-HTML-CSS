@@ -1,0 +1,72 @@
+@font-face {
+font-family: "blond";
+    src: url('/media/blonde.otf');
+src: url("/ALBUMS/MEDIA/Blonde.otf")
+}
+
+.pic{
+  background:url("https://ih1.redbubble.net/image.490183285.0064/flat,550x550,075,f.u4.jpg");
+  height:550px;
+  width:367px;
+   height:600px;
+    background-size: cover;
+  border-right:40px;
+  border-width:40px;  
+  border-right-width:150px;
+  border-left-width:150px;
+  border-top-width:70px;
+  border-bottom-width:70px;
+    border-style:solid;
+  border-color: #E0DFDE;
+  
+ 
+}
+
+.par{
+  width:55px;
+  height:40px;
+  position:relative;
+  bottom:-89%;
+  margin-top:10px;
+  margin-bottom:10px;
+left: 130px
+}
+p{
+  font-family:"blond";
+  font-size:45px;
+z-index:2;
+position:relative;
+top:-80px;
+margin-top:10px;
+margin-bottom:10px;
+text-align:center;
+}
+
+.barc{
+	width:55px;
+	height:40px;
+	  margin-top:10px;
+  margin-bottom:10px;
+   position:relative;
+  bottom:-89%;
+left: 125px;
+margin-right:10px;
+}
+
+/*original: 
+largo: 540 / 100%
+largo foto: 415 / 75%
+arriba y abajo margen: 7.5% cada uno
+ancho total  560 / 100%
+ancho foto 280 / 75%
+margen lado= 42 cada uno / 15% o 7.5% los dos
+
+nueva:
+largo foto: 600
+ancho foto: 367
+nuevo ancho total: 485;
+nuevo largo total: 800;
+
+margen arriba y abajo: 100 cada uno;
+margen lado y lado: 36.375 cada uno*/
+  
