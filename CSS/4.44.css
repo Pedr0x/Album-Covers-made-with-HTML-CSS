@@ -1,0 +1,33 @@
+ @import url('https://fonts.googleapis.com/css?family=Spectral&display=swap');
+
+.container{
+  width:600px;
+  height:600px;
+  background:#eebc8f;
+  margin:1%;
+  font-family:"Spectral";
+// The original font is  Larish Neue
+}
+
+.subtitle{
+
+  font-weight:600;
+  font-size:20px;
+   text-align:center;
+  border-bottom:3px solid black;
+  padding-bottom:20px;
+  margin: 0 120px;
+}
+
+.title{
+  font-size:220px;
+  position:relative;
+  bottom:-45%;
+  text-align:center;
+  color:Black;
+  font-weight:700;
+}
+*{
+  margin:0;
+  
+}
