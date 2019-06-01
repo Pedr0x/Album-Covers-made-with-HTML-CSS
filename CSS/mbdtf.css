@@ -1,0 +1,31 @@
+.pic{
+	background: #cc2036; /* 
+
+alternate #e6012c */
+	display:grid;
+	grid-template-columns:1fr;
+	grid-template-rows:1fr;
+	width:500px;
+	height:500px;
+}
+
+
+.inner{
+	width:200px;
+	height:200px;
+	background:url
+
+("https://i.etsystatic.com/14598641/r/il/f
+
+9c27e/1295284891/il_794xN.1295284891
+
+_h6tr.jpg");
+	background-size:cover;
+	align-self:center;
+	justify-self:center;
+	  border-width:6px; 
+border-color:#e3cf78;	  
+border-style:solid;
+     background-position: center; 
+
+}
